@@ -1,0 +1,18 @@
+By default, Django stores files locally, using the MEDIA_ROOT 
+and MEDIA_URL settings. The examples below assume that you’re
+ using these defaults.
+
+However, Django provides ways to write custom file storage
+ systems that allow you to completely customize where and 
+ how Django stores files.
+
+
+    Q. WHY USING DATABASE MODEL TO RETREIVE AND SAVE IMAGE FROM FOLDERS.
+    A. YOU CAN ALSO DO IT WITHOUT CREATING MODEL AND ONLY DJANGO FORMS.
+    FOR THAT YOU REQUIRE ONLY THE FORM DATA AND SAVE THAT FORM DATA?
+
+    MODEL ISILIYE BANAYA TAAKI IMAGE FILE KI DETAILS JO BHI CHAHIYE THI
+    LIKE IMAGE NAME AUR JO IMAGE_FILED KE ATTRIBUTED ME BHARE JAANEWALI CHEEZI THI
+    WOH SAARE SQL LITE DB ME SAVE HO RAHI HAIN.
+
+
