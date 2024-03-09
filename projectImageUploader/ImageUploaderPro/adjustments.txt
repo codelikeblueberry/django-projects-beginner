@@ -1,5 +1,0 @@
-update the MEDIA_ROOT variable :
-
-create a mediaDB folder where you want to keep your images.
- 
-MEDIA_ROOT  =  r"copy full path of mediaDB folder and paste here"
